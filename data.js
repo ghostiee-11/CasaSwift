@@ -35,7 +35,7 @@ export const services = [
     price: 999,
     duration: '3 hrs',
     description: 'Chemical pest control to remove bugs and insects.',
-    images: ['https://cpcindia.in/wp-content/uploads/2023/07/household.jpg'],
+    images: ['https://content.app-sources.com/s/40574786550593908/uploads/Backgrounds/AdobeStock_411971550-scaled.jpeg-7540256.webp'],
   },
   {
     id: '5',
